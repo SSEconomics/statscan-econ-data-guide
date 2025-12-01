@@ -14,12 +14,12 @@ Finding the right series on the Statistics Canada website can be surprisingly ti
   **Textbook components (C, I, G, X, M, Y):**
 
   - `C` = Household final consumption expenditure  
-    + Non-profit institutions serving households (NPISH) final consumption expenditure  
+    \+ Non-profit institutions serving households (NPISH) final consumption expenditure  
   - `I` = Business gross fixed capital formation  
-    + NPISH gross fixed capital formation  
-    + Investment in inventories  
+    \+ NPISH gross fixed capital formation  
+    \+ Investment in inventories  
   - `G` = General governments final consumption expenditure  
-    + General governments gross fixed capital formation  
+    \+ General governments gross fixed capital formation  
   - `X` = Exports of goods and services  
   - `M` = Imports of goods and services  
   - `Y` = Gross domestic product (GDP)
