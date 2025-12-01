@@ -8,7 +8,7 @@ Finding the right series on the Statistics Canada website can be surprisingly ti
 ### National Accounts
 
 - **Real (chained dollars) and nominal quarterly GDP and components (1961Q1–present)**  
-  **Source:** Statistics Canada, Table 36-10-0104-01  
+  Statistics Canada, Table 36-10-0104-01  
   <https://doi.org/10.25318/3610010401-eng>
 
   **Textbook components (C, I, G, X, M, Y):**
@@ -29,28 +29,28 @@ Finding the right series on the Statistics Canada website can be surprisingly ti
 ### Prices
 
 - **Headline Consumer Price Index (CPI), monthly, seasonally adjusted (1992M1–present)**  
-  **Source:** Statistics Canada, Table 18-10-0060-01  
+  Statistics Canada, Table 18-10-0060-01  
   <https://doi.org/10.25318/1810000601-eng>
 
 - **Headline Consumer Price Index (CPI), monthly, not seasonally adjusted (1972M1–present)**  
-  **Source:** Statistics Canada, Table 18-10-0004-01  
+  Statistics Canada, Table 18-10-0004-01  
   <https://doi.org/10.25318/1810000401-eng>
 
 - **Core inflation, Bank of Canada's measures (CPI-trim, CPI-median, etc.), monthly (1941–present)**  
-  **Source:** Statistics Canada, Table 18-10-0256-01  
+  Statistics Canada, Table 18-10-0256-01  
   <https://doi.org/10.25318/1810025601-eng>
 
 - **Inflation expectations, Bank of Canada Survey (2014Q4–present)**  
-  **Source:** Bank of Canada  
+  Bank of Canada  
   <https://www.bankofcanada.ca/?p=217951>
 
 - **Bank of Canada Commodity Price Indexes (BCPI), monthly (1992M1–2024M12)**  
   Trade weighted, energy non-energy and sectoral commodity price indexes.  
-  **Source:** Bank of Canada  
+  Bank of Canada  
   <https://www.bankofcanada.ca/rates/price-indexes/bcpi/>
 
 - **New Housing Price Index, monthly (1981–present)**  
-  **Source:** Statistics Canada, Table 18-10-0205-01  
+  Statistics Canada, Table 18-10-0205-01  
   <https://doi.org/10.25318/1810020501-eng>
 
 ---
@@ -58,15 +58,15 @@ Finding the right series on the Statistics Canada website can be surprisingly ti
 ### Money Supply and Loans
 
 - **Bank lending, monthly (1990M1–present)**  
-  **Source:** Statistics Canada, Table 36-10-0666-01  
+  Statistics Canada, Table 36-10-0666-01  
   <https://doi.org/10.25318/3610066601-eng>
 
 - **Bank mortgage loans outstanding, quarterly (1982–present)**  
-  **Source:** Statistics Canada, Table 10-10-0134-01  
+  Statistics Canada, Table 10-10-0134-01  
   <https://doi.org/10.25318/1010013401-eng>
 
 - **Money supply, month-end (1946–present)**    
-  **Source:** Bank of Canada  
+  Bank of Canada  
   <https://www.bankofcanada.ca/?p=196858>
 
 ---
@@ -74,11 +74,11 @@ Finding the right series on the Statistics Canada website can be surprisingly ti
 ### Interest Rates
 
 - **Mortgage lending rate, posted 5-year term, quarterly (1982–present)**  
-  **Source:** Statistics Canada, Table 34-10-0145-01  
+  Statistics Canada, Table 34-10-0145-01  
   <https://doi.org/10.25318/3410014501-eng>
 
 - **Interest rates on overnight money market, bank rate, and government bills/bonds, monthly (1932–present)**  
-  **Source:** Statistics Canada, Table 10-10-0122-01  
+  Statistics Canada, Table 10-10-0122-01  
   <https://doi.org/10.25318/1010012201-eng>
 
 ---
@@ -86,15 +86,15 @@ Finding the right series on the Statistics Canada website can be surprisingly ti
 ### Labour
 
 - **Employment and unemployment by sex and age, monthly, seasonally adjusted (1976–present)**  
-  **Source:** Statistics Canada, Labour Force Survey, Table 14-10-0287-01  
+  Statistics Canada, Labour Force Survey, Table 14-10-0287-01  
   <https://doi.org/10.25318/1410028701-eng>
 
 - **Employment and unemployment by sex and age, monthly, not seasonally adjusted (1976–present)**   
-  **Source:** Statistics Canada, Labour Force Survey, Table 14-10-0017-01  
+  Statistics Canada, Labour Force Survey, Table 14-10-0017-01  
   <https://doi.org/10.25318/1410001701-eng>
 
 - **Wages, hours and productivity, quarterly (1981–present)**  
-  **Source:** Statistics Canada, Table 36-10-0206-01  
+  Statistics Canada, Table 36-10-0206-01  
   <https://doi.org/10.25318/3610020601-eng>
 
 ---
@@ -102,11 +102,11 @@ Finding the right series on the Statistics Canada website can be surprisingly ti
 ### Government Debt and Deficit
 
 - **Government deficit and interest costs, quarterly (1990–present)**  
-  **Source:** Statistics Canada, Table 10-10-0015-01  
+  Statistics Canada, Table 10-10-0015-01  
   <https://doi.org/10.25318/1010001501-eng>
 
 - **Government debt, general government, quarterly (1990–present)**   
-  **Source:** Statistics Canada, Table 38-10-0237-01  
+  Statistics Canada, Table 38-10-0237-01  
   <https://doi.org/10.25318/3810023701-eng>
 
 ---
@@ -114,7 +114,7 @@ Finding the right series on the Statistics Canada website can be surprisingly ti
 ### Current Account
 
 - **Current account balance and components, quarterly, seasonally adjusted (1981–present)**  
-  **Source:** Statistics Canada, Table 36-10-0018-01  
+  Statistics Canada, Table 36-10-0018-01  
   <https://doi.org/10.25318/3610001801-eng>
 
 ---
