@@ -125,3 +125,4 @@ Finding the right series on the Statistics Canada website can be surprisingly ti
   Upcoming releases for major macroeconomic statistics.  
   <https://www150.statcan.gc.ca/n1/dai-quo/cal1-eng.htm>
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oFeGlJFSqTQ?si=t7i0175lKX8Xp4Vi" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
