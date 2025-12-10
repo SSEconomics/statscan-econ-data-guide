@@ -127,5 +127,5 @@ Finding the right series on the Statistics Canada website can be surprisingly ti
 
 ## Video tutorial: StatsCan Data to Excel
 
-[![StatsCan Data to Excel](https://img.youtube.com/vi/oFeGlJFSqTQ/hqdefault.jpg)](https://www.youtube.com/watch?v=oFeGlJFSqTQ)
+[![StatsCan Data to Excel](https://img.youtube.com/vi/YtObmeC5rYw/hqdefault.jpg)](https://youtu.be/YtObmeC5rYw)
 
