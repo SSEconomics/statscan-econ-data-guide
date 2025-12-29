@@ -69,9 +69,9 @@ Finding the right series on the Statistics Canada website can be surprisingly ti
   Bank of Canada  
   <https://www.bankofcanada.ca/?p=196858>
 
-- **Financial Stability Indicators, quarterly (1990–present)**
-  Mortgage characteristics, credit performance and housing market
-  Bank and non-bank leverage, debt and liquidity
+- **Financial Stability Indicators, quarterly (1990–present)**  
+  Mortgage characteristics, credit performance and housing market  
+  Bank and non-bank leverage, debt and liquidity  
   Bank of Canada  
   <https://www.bankofcanada.ca/rates/indicators/financial-stability-indicators/>
 
