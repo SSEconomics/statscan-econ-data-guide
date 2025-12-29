@@ -55,7 +55,7 @@ Finding the right series on the Statistics Canada website can be surprisingly ti
 
 ---
 
-### Money Supply and Loans
+### Money Supply and Financials
 
 - **Bank lending, monthly (1990M1–present)**  
   Statistics Canada, Table 36-10-0666-01  
@@ -68,6 +68,12 @@ Finding the right series on the Statistics Canada website can be surprisingly ti
 - **Money supply, month-end (1946–present)**    
   Bank of Canada  
   <https://www.bankofcanada.ca/?p=196858>
+
+- **Financial Stability Indicators, quarterly (1990–present)**
+  Mortgage characteristics, credit performance and housing market
+  Bank and non-bank leverage, debt and liquidity
+  Bank of Canada  
+  <https://www.bankofcanada.ca/rates/indicators/financial-stability-indicators/>
 
 ---
 
