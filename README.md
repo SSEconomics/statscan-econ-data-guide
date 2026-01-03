@@ -7,7 +7,7 @@ Finding the right series on the Statistics Canada website can be surprisingly ti
 
 ### National Accounts
 
-- **Real (chained dollars) and nominal quarterly GDP and components (1961Q1–present)**  
+- **Real (chained dollars) and nominal (current) quarterly GDP and components (1961Q1–present)**  
   Statistics Canada, Table 36-10-0104-01  
   <https://doi.org/10.25318/3610010401-eng>
 
