@@ -28,15 +28,15 @@ Finding the right series on the Statistics Canada website can be surprisingly ti
 
 ### Prices
 
-- **Headline Consumer Price Index (CPI), monthly, seasonally adjusted (1992M1–present)**  
+- **Headline Consumer Price Index (CPI), monthly, seasonally adjusted (1992–present)**  
   Statistics Canada, Table 18-10-0060-01  
   <https://doi.org/10.25318/1810000601-eng>
 
-- **Headline Consumer Price Index (CPI), monthly, not seasonally adjusted (1972M1–present)**  
+- **Headline Consumer Price Index (CPI), monthly, not seasonally adjusted (1914–present)**  
   Statistics Canada, Table 18-10-0004-01  
   <https://doi.org/10.25318/1810000401-eng>
 
-- **Core inflation, Bank of Canada's measures (CPI-trim, CPI-median, etc.), monthly (1941–present)**  
+- **Core inflation, Bank of Canada's measures (CPI-trim, CPI-median, etc.), monthly (1949–present)**  
   Statistics Canada, Table 18-10-0256-01  
   <https://doi.org/10.25318/1810025601-eng>
 
@@ -44,7 +44,7 @@ Finding the right series on the Statistics Canada website can be surprisingly ti
   Bank of Canada  
   <https://www.bankofcanada.ca/?p=217951>
 
-- **Bank of Canada Commodity Price Indexes (BCPI), monthly (1992M1–2024M12)**  
+- **Bank of Canada Commodity Price Indexes (BCPI), monthly (1992–present)**  
   Trade weighted, energy non-energy and sectoral commodity price indexes.  
   Bank of Canada  
   <https://www.bankofcanada.ca/rates/price-indexes/bcpi/>
@@ -57,7 +57,7 @@ Finding the right series on the Statistics Canada website can be surprisingly ti
 
 ### Money Supply and Financials
 
-- **Bank lending, monthly (1990M1–present)**  
+- **Bank lending, monthly (1990–present)**  
   Statistics Canada, Table 36-10-0666-01  
   <https://doi.org/10.25318/3610066601-eng>
 
@@ -79,7 +79,7 @@ Finding the right series on the Statistics Canada website can be surprisingly ti
 
 ### Interest Rates
 
-- **Mortgage lending rate, posted 5-year term, quarterly (1982–present)**  
+- **Mortgage lending rate, posted 5-year term, CMHC, quarterly (1951–present)**  
   Statistics Canada, Table 34-10-0145-01  
   <https://doi.org/10.25318/3410014501-eng>
 
