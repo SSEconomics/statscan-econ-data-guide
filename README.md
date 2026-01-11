@@ -82,7 +82,7 @@ Finding the right series on the Statistics Canada website can be surprisingly ti
 - **Housing Starts, Construction and Completions, quarterly (1948–present)**  
   Canada Mortgage and Housing Corporation 
   Statistics Canada, Table 34-10-0135-01  
-  <https://doi.org/10.25318/3410013501-eng/>
+  <https://doi.org/10.25318/3410013501-eng>
 
 ---
 
