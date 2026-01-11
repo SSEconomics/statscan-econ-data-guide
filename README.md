@@ -44,7 +44,7 @@ Finding the right series on the Statistics Canada website can be surprisingly ti
   Bank of Canada  
   <https://www.bankofcanada.ca/?p=217951>
 
-- **Bank of Canada Commodity Price Indexes (BCPI), monthly (1992–present)**  
+- **Bank of Canada Commodity Price Indexes (BCPI), monthly (1972–present)**  
   Trade weighted, energy non-energy and sectoral commodity price indexes.  
   Bank of Canada  
   <https://www.bankofcanada.ca/rates/price-indexes/bcpi/>
