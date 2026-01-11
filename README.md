@@ -49,10 +49,6 @@ Finding the right series on the Statistics Canada website can be surprisingly ti
   Bank of Canada  
   <https://www.bankofcanada.ca/rates/price-indexes/bcpi/>
 
-- **New Housing Price Index, monthly (1981–present)**  
-  Statistics Canada, Table 18-10-0205-01  
-  <https://doi.org/10.25318/1810020501-eng>
-
 ---
 
 ### Money Supply and Financials
@@ -74,6 +70,19 @@ Finding the right series on the Statistics Canada website can be surprisingly ti
   Bank and non-bank leverage, debt and liquidity  
   Bank of Canada  
   <https://www.bankofcanada.ca/rates/indicators/financial-stability-indicators/>
+  
+---
+
+### Real Estate
+
+- **New Housing Price Index, monthly (1981–present)**  
+  Statistics Canada, Table 18-10-0205-01  
+  <https://doi.org/10.25318/1810020501-eng>
+
+- **Housing Starts, Construction and Completions, quarterly (1948–present)**  
+  Canada Mortgage and Housing Corporation 
+  Statistics Canada, Table 34-10-0135-01  
+  <https://doi.org/10.25318/3410013501-eng/>
 
 ---
 
@@ -102,6 +111,10 @@ Finding the right series on the Statistics Canada website can be surprisingly ti
 - **Wages, hours and productivity, quarterly (1981–present)**  
   Statistics Canada, Table 36-10-0206-01  
   <https://doi.org/10.25318/3610020601-eng>
+
+  - **Population estimates, quarterly (1946–present)**  
+  Statistics Canada, Table 17-10-0009-01
+  <https://doi.org/10.25318/1710000901-eng>
 
 ---
 
