@@ -113,7 +113,7 @@ Finding the right series on the Statistics Canada website can be surprisingly ti
   <https://doi.org/10.25318/3610020601-eng>
 
 - **Population estimates, quarterly (1946–present)**  
-  Statistics Canada, Table 17-10-0009-01 
+  Statistics Canada, Table 17-10-0009-01  
   <https://doi.org/10.25318/1710000901-eng>
 
 ---
