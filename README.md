@@ -79,11 +79,17 @@ Finding the right series on the Statistics Canada website can be surprisingly ti
   Statistics Canada, Table 18-10-0205-01  
   <https://doi.org/10.25318/1810020501-eng>
 
+- **Housing Starts, Construction and Completions, monthly (1988–present)**  
+  Canada Mortgage and Housing Corporation 
+  Statistics Canada, Table 34-10-0151-01  
+  <https://doi.org/10.25318/3410013501-eng>
+
 - **Housing Starts, Construction and Completions, quarterly (1948–present)**  
   Canada Mortgage and Housing Corporation 
   Statistics Canada, Table 34-10-0135-01  
   <https://doi.org/10.25318/3410013501-eng>
 
+housing starts, under construction and completions
 ---
 
 ### Interest Rates
