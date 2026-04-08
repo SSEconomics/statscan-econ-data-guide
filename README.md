@@ -24,6 +24,9 @@ Finding the right series on the Statistics Canada website can be surprisingly ti
   - `M` = Imports of goods and services  
   - `Y` = Gross domestic product (GDP)
 
+- **Monthly Real GDP by industry, seasonally adjusted (1998–present)**  
+  Statistics Canada, Table 36-10-0434-02
+  <https://doi.org/10.25318/3610043401-eng>
 ---
 
 ### Prices
