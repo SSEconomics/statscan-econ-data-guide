@@ -142,9 +142,13 @@ Finding the right series on the Statistics Canada website can be surprisingly ti
 
 ---
 
-### Current Account
+### External
 
-- **Current account balance and components, quarterly, seasonally adjusted (1981–present)**  
+- **International merchandise trade balance, monthly, seasonally adjusted (1997–present)**  
+  Statistics Canada, Table 12-10-0011-01  
+  <https://doi.org/10.25318/1210001101-eng>
+
+  - **Current account balance and components, quarterly, seasonally adjusted (1981–present)**  
   Statistics Canada, Table 36-10-0018-01  
   <https://doi.org/10.25318/3610001801-eng>
 
